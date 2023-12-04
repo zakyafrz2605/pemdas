@@ -1,0 +1,56 @@
+persiapan_alat_dan_bahan():
+    print("Langkah 1: Persiapan Alat dan Bahan")
+    print("Kumpulkan alat dan bahan yang diperlukan.")
+    print()
+
+def pengukuran_jarak():
+    print("Langkah 2: Pengukuran Jarak")
+    print("Ukur jarak dari pusat distribusi ke rumah pelanggan.")
+    print()
+
+def pemasangan_kabel_serat_optik():
+    print("Langkah 3: Pemasangan Kabel Serat Optik")
+    print("Pasang kabel serat optik dari pusat distribusi ke rumah pelanggan sesuai dengan pengukuran jarak.")
+    print()
+
+def konektivitas_kabel():
+    print("Langkah 4: Konektivitas Kabel")
+    print("Sambungkan ujung kabel serat optik ke konektor dan lakukan penyambungan dengan perangkat terminal jaringan di pusat distribusi dan rumah pelanggan.")
+    print()
+
+def pengujian_koneksi():
+    print("Langkah 5: Pengujian Koneksi")
+    print("Uji kualitas koneksi dengan menggunakan alat pengukur untuk memastikan kualitas sinyal yang baik.")
+    print()
+
+def konfigurasi_perangkat_pelanggan():
+    print("Langkah 6: Konfigurasi Perangkat Pelanggan")
+    print("Konfigurasikan perangkat pelanggan seperti router atau modem untuk mengaktifkan layanan internet.")
+    print()
+
+def pengujian_akhir():
+    print("Langkah 7: Pengujian Akhir")
+    print("Lakukan pengujian akhir untuk memastikan bahwa layanan internet berfungsi dengan baik di rumah pelanggan.")
+    print()
+
+def pemeliharaan_dan_perbaikan():
+    print("Langkah 8: Pemeliharaan dan Perbaikan")
+    print("Pastikan ada rencana pemeliharaan dan perbaikan untuk mengatasi masalah jika terjadi di masa depan.")
+    print()
+
+print("Program Instalasi Jaringan Kabel Fiber to the Home (FTTH)")
+print()
+
+persiapan_alat_dan_bahan()
+pengukuran_jarak()
+pemasangan_kabel_serat_optik()
+konektivitas_kabel()
+pengujian_koneksi()
+konfigurasi_perangkat_pelanggan()
+pengujian_akhir()
+pemeliharaan_dan_perbaikan()
+
+print("Instalasi FTTH selesai.")
+print()
+
+print("Terima kasih atas penggunaan program ini.")
